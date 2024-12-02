@@ -1,0 +1,3 @@
+#sprawdzanie
+
+print("czy działa" )
